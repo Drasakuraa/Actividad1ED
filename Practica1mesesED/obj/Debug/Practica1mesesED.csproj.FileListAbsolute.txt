@@ -1,0 +1,10 @@
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.Form1.resources
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.Properties.Resources.resources
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.csproj.GenerateResource.cache
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\bin\Debug\Practica1mesesED.exe.config
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\bin\Debug\Practica1mesesED.exe
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\bin\Debug\Practica1mesesED.pdb
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.exe
+C:\Users\nalle\source\repos\Practica1mesesED\Practica1mesesED\obj\Debug\Practica1mesesED.pdb
